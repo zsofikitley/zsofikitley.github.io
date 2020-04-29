@@ -1,0 +1,22 @@
+img {
+  width: 150px; 
+}
+
+div {
+  display: flex;
+}
+
+section {
+ font-family: 'Pacifico', cursive; 
+ width: 200px;
+ text-align: center;
+ align-self:flex-end;
+}
+
+h1{
+  font-family: 'Caveat', cursive;
+}
+
+a {
+  display: block;
+}
