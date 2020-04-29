@@ -23,4 +23,7 @@ p {
    font-weight: 300; 
    background-color: yellow;
    color:blue;
+   display: flex;
+   justify-content: flex-start;
+   max-width: 200px;
 }
