@@ -6,16 +6,16 @@
 
 #b325 {
     font-weight: 600;
-    border: green;
-    border-width: 2px;
+    border: solid green;
+    border-width: 1px;
     display: flex;
     justify-content: flex-start;
     max-width: 200px;
 }
 .b326 {
     font-weight: 600;
-    border: green;
-    border-width: 2px;
+    border: solid green;
+    border-width: 1px;
 }
 .b329 {
     font-weight: 600;
