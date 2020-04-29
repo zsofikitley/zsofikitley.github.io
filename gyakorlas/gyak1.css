@@ -1,5 +1,5 @@
 .container {
-    display: flex;
+    display: block;
     width: 300px;
     height: 500px;
     border: solid black;
@@ -7,4 +7,18 @@
 
 .asteroid {
     display: flex;
+    justify-content: flex-start;
+}
+
+#b325 {
+    font-weight: 600;
+}
+.b326 {
+    font-weight: 600;
+}
+.b329 {
+    font-weight: 600;
+}
+.big {
+   font-weight: 300; 
 }
