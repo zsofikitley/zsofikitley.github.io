@@ -1,17 +1,25 @@
 .asteroid {
     display: flex;
     justify-content: flex-start;
+    max-width: 200px;
 }
 
 #b325 {
     font-weight: 600;
+    border: green;
+    border-width: 2px;
 }
 .b326 {
     font-weight: 600;
+    border: green;
+    border-width: 2px;
 }
 .b329 {
     font-weight: 600;
+    color: blue;
 }
 .big {
    font-weight: 300; 
+   background-color: yellow;
+   color:blue;
 }
