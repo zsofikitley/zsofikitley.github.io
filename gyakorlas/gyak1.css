@@ -17,8 +17,9 @@
 .b329 {
     font-weight: 600;
     color: blue;
+    background: none;
 }
-.big {
+p {
    font-weight: 300; 
    background-color: yellow;
    color:blue;
